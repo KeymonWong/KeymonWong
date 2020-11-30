@@ -1,7 +1,7 @@
 ### Hi here 👋 
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=KeymonWong&show_icons=true&icon_color=35D058&text_color=718096&bg_color=ffffff&hide_title=false" width="460"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=KeymonWong&show_icons=true&icon_color=35D058&text_color=718096&bg_color=ffffff&hide_title=true" width="460"/>
 
 
 - 🌱 I'm an **iOS developer**,
