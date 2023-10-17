@@ -5,7 +5,7 @@
 
 
 - 🌱 I'm an **iOS developer**,
-- 🔭 currently learning `RN & Flutter`,
+- 🔭 currently learning `RN & JS & TS`,
 - 🏠 and working at [去哪儿](https://www.qunar.com/),
 - 🔰 used to work at **ole** and **xiaoban**.
 - 📫 Email：hqm_vip@163.com || hqmvip@gmail.com
