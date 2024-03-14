@@ -6,9 +6,9 @@
 
 - 🌱 I'm an **iOSer**,
 - 🔭 skills：iOS > RN > 鸿蒙,
-- 🏠 and working at [去哪儿](https://www.qunar.com/),
-- 🔰 used to work at **ole** and **xiaoban**.
-- 📫 Email：hqm_vip@163.com || hqmvip@gmail.com
+- 🏠 working at [去哪儿](https://www.qunar.com/),
+- 🔰 used to work at **长城** and **小伴**.
+- 📫 email：hqm_vip@163.com || hqmvip@gmail.com
 
-- 🤔 ...Haven't thought about it yet.
+- 🤔 blabla...
 
